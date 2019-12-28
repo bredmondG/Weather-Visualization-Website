@@ -14,3 +14,7 @@ Website that shows analysis of weather change as you move closer to the equator.
 
 * A Data page that:
   * Displays a responsive table containing the data used in the visualizations.
+  
+  
+  
+![Landing Page](landingpagescreenshot.png)
